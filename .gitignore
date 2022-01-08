@@ -32,6 +32,9 @@ dist/
 /node_modules/
 /static/
 
+#Folder name have issue with Windows GIT clone
+/graphql/core/tests/cassettes/
+
 # Environments
 .env
 .venv
